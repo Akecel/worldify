@@ -1,0 +1,66 @@
+* {
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+  
+  }
+  body {
+    background:#22313F;
+    width:100%;
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+  }
+  .container {
+    width: 1240px;
+    margin: 0 auto;
+  }
+  h1 {
+    color:#ddd;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20px;
+  }
+  h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #aaa;
+  }
+  p {
+    color:#ddd;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:300;
+    font-size:1.05em;
+  }
+  hr {
+    text-align:center;
+    margin:0 auto;
+    width: 250px;
+    height:1px;
+    border:none;
+    background:#ddd
+  }
+  .map {
+    width:100%;
+  }
+  hr {
+    width: 150px;
+    background: #888;
+  }
+  .fw {
+    float:left;
+    width:100%; 
+  }
+  p {
+    text-align: center;
+    font-size:0.75em;
+  }
+  .world {
+    width: 950px;
+    height: 600px;
+    margin: 0 auto;
+  }
+  .clear {
+    clear:both;
+  }
